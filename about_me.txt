@@ -1,0 +1,5 @@
+I am learning Node.js because it is a powerful runtime for building scalable and fast applications. 
+I want to use it for backend development, APIs, and real-time applications. 
+It is widely used, and mastering it will improve my skills in web development.
+:wq
+
